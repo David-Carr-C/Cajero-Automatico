@@ -1,0 +1,3 @@
+Administrador$ 00000000000$ 0000$ Credito$ 8000.0$
+Test$ 11223344556$ 2222$ Debito$ 2500.0$
+David$ 12321321111$ 1234$ Credito$ 20000.0$
